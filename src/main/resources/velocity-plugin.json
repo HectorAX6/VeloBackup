@@ -1,0 +1,8 @@
+{
+  "id": "velobackup",
+  "name": "VeloBackup",
+  "version": "1.0.0",
+  "description": "Automated Google Drive backups for Velocity",
+  "authors": ["Hector"],
+  "main": "com.velobackup.VeloBackupPlugin"
+}
